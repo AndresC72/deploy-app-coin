@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The deploy link proyect (https://andresc72.github.io/deploy-app-coin/).
+
+Licencia 📄
+Este proyecto está bajo la Licencia Andres Cristancho 2022 © Todos los derechos reservados.
 
 ## Available Scripts
 
